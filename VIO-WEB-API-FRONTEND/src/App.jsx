@@ -75,6 +75,8 @@ function App() {
 
           <p>{statusApi?.mensagem}</p>
         </section>
+        
+        //Continuar aqui
 
         <section className="card">
           <h2>Eventos Disponíveis</h2>
